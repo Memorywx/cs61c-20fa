@@ -1,9 +1,9 @@
-1.run arglist
-2.b function | break line
-3.n
-4.s
-5.c
-6.p
-7.display
+1.set args 参数
+2.break 某一行
+3.next or n
+4.step or s
+5.continue or c
+6.print or p
+7.display 某个变量名
 8.info locals
-9.q
+9.quit or q
